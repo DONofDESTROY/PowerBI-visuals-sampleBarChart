@@ -37,3 +37,7 @@ pbiviz start
 12. [Finally Package for Distribution ... Done](https://github.com/Microsoft/PowerBI-visuals/blob/master/tools/usage.md#packaging-your-visual-for-distribution)
 
 
+Issue Recording: https://youtu.be/QgKRlCIYKB4
+
+
+
