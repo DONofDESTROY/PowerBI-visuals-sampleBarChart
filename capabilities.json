@@ -63,7 +63,8 @@
         "show": {
           "type": {
             "bool": true
-          }
+          },
+          "filterState": true
         },
         "fill": {
           "type": {
@@ -72,7 +73,8 @@
                 "color": true
               }
             }
-          }
+          },
+          "filterState": true
         }
       }
     },
@@ -215,16 +217,12 @@
       "default": true,
       "canvas": true
     },
-    "roles": [
-      "Tooltips"
-    ],
+    "roles": ["Tooltips"],
     "supportEnhancedTooltips": true
   },
   "supportsLandingPage": false,
   "drilldown": {
-    "roles": [
-      "category"
-    ]
+    "roles": ["category"]
   },
   "privileges": []
 }
